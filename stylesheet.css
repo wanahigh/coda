@@ -1,0 +1,46 @@
+h2{
+  font-family: 'Anton', sans-serif;
+  color:cyan;
+  text-align:center;
+  background-color:black;
+
+
+  }
+
+body{
+background:url("Minimal-Wallpaper-For-PC.jpeg");
+background-attachment: fixed;
+}
+
+ul,li{
+  text-align: center;
+  text-shadow: red;
+  color:white;
+
+
+}
+
+div{
+  background-color:rgba(0,0,0,0.4);
+  margin:50px;
+  border-style: 2px,solid,cyan;
+  border-radius:20px;
+}
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+  background-image: url("Formation.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  padding-top: 200px;
+  border-style: solid,black;
+  border-radius: 10px;
+  text-align: center;
+  color:white;
+}
+
+h1:hover{
+  font-size:50px;
+  color:cyan;
+
+}
